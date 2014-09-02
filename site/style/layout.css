@@ -1,0 +1,8 @@
+body {
+	padding-top: 8px;
+}
+a[name] {
+	padding-top: 55px;
+	margin-top: -55px;
+	display: inline-block;
+}
