@@ -1,0 +1,58 @@
+.alert {
+	text-align: center;
+}
+.alert-hidden {
+	display: none;
+}
+.list-group a.list-group-item {
+	cursor: pointer;
+}
+.nav-tabs li a {
+	cursor: pointer;
+}
+.nav-tabs.nav-sm li a {
+	padding-top: 6px;
+	padding-bottom: 4px;
+}
+.nav-tabs li a.has-error {
+	color: #A94442;
+}
+.tab-content .tab-pane {
+	margin-top: 8px;
+}
+.panel {
+	margin: 8px 0px;
+}
+.panel .panel-heading {
+	padding:4px 8px;
+}
+.panel .panel-body {
+	padding-bottom:12px;
+}
+.col-normal-box {
+	margin: 4px 0px;
+}
+.col-control-box {
+	margin: 12px 0px;
+}
+.col-control-box .control-button-box {
+	margin: 0px;
+	text-align: center;
+}
+.form-row {
+	margin: 0px -10px;
+}
+.form-row .col-xs-1 {
+	margin-bottom: 4px;
+	padding: 0px 10px;
+}
+.form-row .col-xs-1 label {
+	margin-bottom: 0px;
+}
+.form-row .form-box {
+	float: left;
+	padding: 0px 8px;
+}
+.form-row .form-box .col-xs-1 {
+	padding: 0px 2px;
+}
